@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Project6a
+//  Guess the Flag
 //
-//  Created by Jason Eng on 7/28/15.
+//  Created by Jason Eng on 7/6/15.
 //  Copyright (c) 2015 EngJason. All rights reserved.
 //
 
